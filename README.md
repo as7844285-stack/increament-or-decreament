@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h2>Counter App</h2>
+   <h1 id="count">0</h1>
+  <button id="increaseBtn">Increase</button>
+  <button id="decreaseBtn">Decrease</button>
+  <button id="resetBtn">Reset</button>
+     <script src="app.js"></script>
+</body>
+</html>
